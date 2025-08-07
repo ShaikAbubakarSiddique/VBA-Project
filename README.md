@@ -1,6 +1,6 @@
 # VBA-Project
 Project Overview
-This project is a Patient Appointment System built using Microsoft Access and VBA (Visual Basic for Applications). It features a user-friendly form to schedule and manage patient appointments, backed by a robust database to store and retrieve patient information and booking details.
+This project is a Doctor Appointment System built using Microsoft Access and VBA (Visual Basic for Applications). It features a user-friendly form to schedule and manage patient appointments, backed by a robust database to store and retrieve patient information and booking details.
 
 Key Features
 Interactive Appointment Form: A dynamic Access form designed for entering, editing, and viewing patient appointment details.
@@ -15,7 +15,7 @@ Training in VBA and Access offers real-world utility—programming through objec
 <img width="773" height="953" alt="image" src="https://github.com/user-attachments/assets/ab32660d-3dee-4e0a-81ea-5c17e96205a9" />
 
 
-## Patient Appointment System
+## Doctor Appointment System
 
 **Overview**  
 This Microsoft Access project provides a patient appointment management system. It includes a VBA-based form for creating, editing, and viewing appointment records, with a back-end database to persist the data.
@@ -29,10 +29,10 @@ This Microsoft Access project provides a patient appointment management system. 
 Implemented using the Microsoft Access object model, this project demonstrates practical use of VBA scripts to interact with forms and data objects, offering valuable automation skills :contentReference[oaicite:1]{index=1}.
 
 **Getting Started**  
-1. Open `PatientAppointments.accdb` in Microsoft Access.  
-2. Navigate to the `frmAppointment` form.  
-3. Use the form to book or manage appointments.  
-4. Explore the VBA modules to understand how form events trigger database updates.
+1. Open `DoctorAppointments.accdb` in Microsoft Access.  
+3. Navigate to the `frmAppointment` form.  
+4. Use the form to book or manage appointments.  
+5. Explore the VBA modules to understand how form events trigger database updates.
 
 **Notes & Best Practices**  
 - Keep code modular and well-commented. Avoid large, single-function routines.  
